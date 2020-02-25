@@ -1,4 +1,5 @@
 # hello-world
 Just another repository
-what's up?
-the sky
+Hi people!
+
+Farra here, I like to do nothing.
